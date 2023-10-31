@@ -18,7 +18,7 @@ const ProductCard = ({ products = [] }) => {
                   <div className="mt-4">
                     <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1 uppercase">{category}</h3>
                     <h2 className="text-gray-900 title-font text-lg font-medium">{title}</h2>
-                    <p className="mt-1 text-md font-semibold">₹{price}</p>
+                    <p className="mt-1 text-md font-semibold">${price}</p>
                   </div>
                 </Link>
               )

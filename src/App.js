@@ -11,6 +11,7 @@ import Contact from './components/Contact';
 import CategoryProducts from './modules/CategoryProducts';
 import Cart from './modules/Cart';
 
+
 // 
 function App() {
   return (

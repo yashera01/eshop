@@ -10,8 +10,8 @@ const Contact = () => {
       </p>
       <div className="contact-details">
         <p>Email: contact@example.com</p>
-        <p>Phone: +1 (123) 456-7890</p>
-        <p>Address: 123 Main Street, City, Country</p>
+        <p>Phone: +91 (123)-456-7890</p>
+        <p>Address: 123 Main Street, City</p>
       </div>
     </div>
   );
